@@ -7,4 +7,4 @@
 * Watch a Movie
 * Listen to Music
 
-####![GitHub](./images/im.jfif)
+![GitHub](./images/Im.jfif)
